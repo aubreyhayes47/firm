@@ -1,0 +1,12 @@
+# Requirements for Autonomous Defense Firm
+# Add production dependencies here as you develop the package
+
+# Example (uncomment as needed):
+# numpy
+# pandas
+# requests
+
+requests
+# google-cloud-storage is required for GCloud upload
+# To enable GCloud upload, uncomment the next line and install the package:
+# google-cloud-storage
